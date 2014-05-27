@@ -1,0 +1,26 @@
+[
+ {
+  "title":"Ramsey's Diner",
+  "category":"Diner",
+  "latitude":37.996315,
+  "longitude":-84.585394
+ },
+ {
+ "title":"Logan's Roadhouse",
+ "category":"Steakhouse",
+ "latitude":38.034244,
+ "longitude":-84.521073
+ },
+ {
+ "title":"Costco",
+ "category":"Store",
+ "latitude":38.025428,
+ "longitude":-84.410609
+ },
+ {
+ "title":"Keeneland Race Track",
+ "category":"Landmark",
+ "latitude":38.04613,
+ "longitude":-84.608008
+ }
+]
